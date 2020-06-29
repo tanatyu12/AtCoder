@@ -1,3 +1,4 @@
+# recursion ver
 import sys
 input = sys.stdin.readline
 def main():
